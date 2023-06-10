@@ -12,5 +12,6 @@ const parent=React.createElement("div",
 
                 console.log(parent);
  const root=ReactDOM.createRoot(document.getElementById("root"));
+ //COMMENT
 
  root.render(parent);
