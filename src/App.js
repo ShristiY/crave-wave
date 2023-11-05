@@ -2,15 +2,15 @@ import React, { lazy, Suspense, useEffect, useState } from "react";
 import ReactDOM from "react-dom/client";
 import Header from "./components/Header";
 import Body from "./components/Body";
-//import About from "./components/About";
 import Contact from "./components/Contact";
 import Error from "./components/Error";
 import RestaurantMenu from "./components/RestaurantMenu";
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
-import UserContext from "./utils/userContext";
+// import UserContext from "./utils/userContext";
 import { Provider } from "react-redux";
 import appStore from "./utils/appStore";
 import Cart from "./components/Cart";
+import UserContext from "./utils/UserContext";
 
 //import Grocery from "./components/Grocery";
 
@@ -23,7 +23,7 @@ import Cart from "./components/Cart";
 
 const Grocery = lazy(() => import("./components/Grocery"));
 
-const About = lazy(() => import("./components/About"));
+
 
 const AppLayout = () => {
   const [userName, setUserName] = useState();
@@ -32,7 +32,7 @@ const AppLayout = () => {
   useEffect(() => {
     // Make an API call and send username and password
     const data = {
-      name: "Akshay Saini",
+      name: "Shristi Yadav",
     };
     setUserName(data.name);
   }, []);
@@ -57,14 +57,6 @@ const appRouter = createBrowserRouter([
       {
         path: "/",
         element: <Body />,
-      },
-      {
-        path: "/about",
-        element: (
-          <Suspense fallback={<h1>Loading....</h1>}>
-            <About />
-          </Suspense>
-        ),
       },
       {
         path: "/contact",

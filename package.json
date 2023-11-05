@@ -1,7 +1,7 @@
 {
   "name": "namaste-react",
   "version": "1.0.0",
-  "description": "This is Namaste React by Akshay Saini",
+  "description": "This is Swiggy by Shristi Yadav",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
@@ -9,15 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/namastedev/namaste-react.git"
+    "url": "git+https://github.com/ShristiY"
   },
   "keywords": [],
-  "author": "Akshay Saini",
+  "author": "Shristi Yadav",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/namastedev/namaste-react/issues"
-  },
-  "homepage": "https://github.com/namastedev/namaste-react#readme",
+  "homepage": "https://github.com/ShristiY/namasteReact/blob/main/README.md",
   "devDependencies": {
     "parcel": "^2.8.3",
     "postcss": "^8.4.24",
