@@ -1,32 +1,13 @@
-#Namaste React 
-
 This repo is about a Food Ordering app which I made from scratch using React.js and Parcel.js.
 
 #Tech Stack
 UI Framwork : React
 CSS Framework : Tailwind CSS
 Routing : React Router DOM
-State Management : React-Redux & Redux Toolkit
+State Management : React-Redux
 Web Bundler : Parcel
 
-#Parcel
-Dev Build
-Local Server
-HMR = Hot Module Replacement
-File Watching Algorithm - written in C++
-Caching - Faster Builds
-Image Optimization
-Minification
-Bundling
-Compress
-Consistent Hashing
-Code Splitting
-Differential Bundling - support older browsers
-Diagnostic
-Error Handling
-HTTPs
-Tree Shaking - remove unused code
-Different dev and prod bundles
+
 
 
 //FOOD APP AYOUT
