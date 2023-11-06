@@ -9,10 +9,12 @@ Web Bundler : Parcel
 
 
 
+/*
+* FOOD APP AYOUT
+* - We are going to have a skeleton for our app 
+* - Inside App layout we'll have a header , a body and a footer component
+*/
 
-//FOOD APP AYOUT
-//We are going to have a skeleton for our app 
-//Inside App layout we'll have a header , a body and a footer component
 /*
 * Header
 * -Logo
