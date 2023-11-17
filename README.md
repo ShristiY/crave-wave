@@ -1,3 +1,5 @@
+https://github.com/ShristiY/crave-wave/assets/99723739/f19a7746-9098-46b7-982f-5f1b611853da
+
 This repo is about a Food Ordering app which is made using React.js
 
 − Created an interactive food ordering web application utilizing React JS which uses Parcel as bundler.
@@ -6,7 +8,4 @@ This repo is about a Food Ordering app which is made using React.js
 − Created reusable components, enhancing code maintainability
 − Styled with Tailwind CSS and added an Error page for handling errors.
 
-
-https://github.com/ShristiY/crave-wave/assets/99723739/f19a7746-9098-46b7-982f-5f1b611853da
-
-
+Please enable CORS to access the full web application.
