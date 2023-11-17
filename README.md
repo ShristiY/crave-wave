@@ -2,10 +2,10 @@ https://github.com/ShristiY/crave-wave/assets/99723739/f19a7746-9098-46b7-982f-5
 
 This repo is about a Food Ordering app which is made using React.js
 
-− Created an interactive food ordering web application utilizing React JS which uses Parcel as bundler.
-− Implemented cart functionality that allows users to easily add and manage their food orders.
-− The app interacts with Swiggy API for real time data and includes features such as Lazy Loading, Dynamic Routing, a working search bar and filter button.
-− Created reusable components, enhancing code maintainability
-− Styled with Tailwind CSS and added an Error page for handling errors.
+- Created an interactive food ordering web application utilizing React JS with Parcel as a bundler.
+- Implemented cart functionality for adding and managing food orders.
+- Interacted with Swiggy API for real-time data, incorporating features like Lazy Loading, Dynamic Routing, search bar, and filter button.
+- Developed reusable components to enhance code maintainability.
+- Styled the application with Tailwind CSS and added an Error page for error handling.
 
 Please enable CORS to access the full web application.
